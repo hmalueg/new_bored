@@ -1,0 +1,19 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'Limelight', cursive;
+  font-size: 40px;
+}
+
+body {
+  font-family: 'Limelight', cursive;
+    background-image: url("https://secure.static.tumblr.com/1007c3a6707b81bc77e14afea6b52023/ubuhro6/sjnn5q6uv/tumblr_static_optica_pattern_13_640.png");
+    background-color: #cccccc;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+a{
+  color: #FFFFFF; 
+}
